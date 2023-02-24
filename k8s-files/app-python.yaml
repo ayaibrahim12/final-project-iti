@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: demo-app-container
-          image: gcr.io/aya-ibrahim79632/aya.my-docker
+          image: gcr.io/aya-ibrahim79632/final_project
           ports:
             - containerPort: 8000
         - name: redis-container
